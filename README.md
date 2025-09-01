@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Karacaaa<br>🔭 I’m currently working on an Assistive Speech-to-Text Algorithm for the Hearing Impaired.<br>👯 I’m looking to collaborate on Open-source projects related to artificial intelligence.<br>🤝 I’m looking for help with Contributions to my open-source repository for beginners.<br>🌱 I’m currently learning Advanced natural language processing techniques.<br>💬 Ask me about getting started with Python and machine learning.<br>⚡My first “database” was full of cooking recipes. 😅<br>
+👋 Hi, I’m @KaracaDeer<br>🔭 I’m currently working on an Assistive Speech-to-Text Algorithm for the Hearing Impaired.<br>👯 I’m looking to collaborate on Open-source projects related to artificial intelligence.<br>🤝 I’m looking for help with Contributions to my open-source repository for beginners.<br>🌱 I’m currently learning Advanced natural language processing techniques.<br>💬 Ask me about getting started with Python and machine learning.<br>⚡My first “database” was full of cooking recipes. 😅<br>
 
 
 ## 🌐 Socials:
